@@ -9,6 +9,7 @@
 # packages, and plugins designed to encourage good coding practices.
 include: package:flutter_lints/flutter.yaml
 
+
 analyzer:
   plugins:
     - dart_code_metrics
@@ -63,6 +64,7 @@ linter:
   # `// ignore_for_file: name_of_lint` syntax on the line or in the file
   # producing the lint.
   rules:
+
 
 
 # Additional information about this file can be found at
